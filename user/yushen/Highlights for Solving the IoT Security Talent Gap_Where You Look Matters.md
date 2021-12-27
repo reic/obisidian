@@ -1,0 +1,31 @@
+- The alignment of IT and OT is inﬂating security risks for IoT, creating high demand for veracityin security specialists
+- Look internally, and weigh the cost of hiring an external candidate against the cost of training aninternal candidate to ease budget woes.■Diversify recruiting sources by working with human resources to build a talent pipeline,partnering with local certiﬁcation programs and focusing on underrepresented communities.■Hire leaders outside of IT where possible, to build the security organizations' business acumenneeded to address digital business risk created by IoT
+- operational technology (OT)
+- Gartner conducted its 2017 Securityand Risk Survey with 712 respondents
+- The increasesaveraged between 12% and 18.8% since mid-2014
+- The IoT security hiring landscape is challenging due to high operational competency requirementsimpacting SRM leaders' ability to scale for IoT
+- develop an organizational skills inventory to both match existing talentpool skills and identify gaps. Factor in the operational knowledge required to strengthen the IoTsecurity posture. This strategy will mean adding more operational and business competencies toany existing skills inventory
+- oT security provides a unique opportunity for SRM leaders
+- to weigh both the cost of hiringexternally and the cost of training an internal candidate in security competencies.
+- having a working knowledge of the business process. Considering IoT requiresnot only skills necessary to protect systems, but skills necessary to protect underlining businessprocesses. The ramp-up time may be shorter training an internal candidate.
+- Taking a vested existing employee (or even someone with no experience), and incentivizing him orher to pursue certiﬁcation or continue an education program in security can be more cost-effectivethan outsourcing or hiring an external candidate
+- Harvard University
+- four core courses
+- certiﬁed information systems security professional(CISSP) candidate who takes 10% longer to ﬁnd and may come with a premium pay tag of $17,000a year or more
+- Creating a tuition reimbursement program that encourages the employees to stay,by tiered payback approach based on tenure, may also incentivize employees to remain onboard.
+- a security key performance indicator (KPI)
+- Develop a skills inventory that accounts for operational experience needed to improve theorganization's IoT security posture
+- the growth rate in job demand for securityprofessionals would grow an additional 28% for a 10-year period starting in 2016
+- Cast a wider net,and partner with organizations representing underrepresented groups, such as women, minorities,veterans and retired people. There is a growing pipeline of experienced employees inunderrepresented groups.
+- women are globally underrepresented in the cybersecurity profession (at11%), much lower than the representation of women in the overall global workforce.
+- SRM leaders must build a future talent pipelineby early identiﬁcation of qualiﬁed people through relationships with academic institutions.
+- Start building your talent pool early by raising brand visibility locally by offering co-op programsand training opportunities to local schools and organizations.
+- As digital technology advances, the ability to manageloT security across vast entry points and surfaces means a one-size-ﬁts-all security leader does notexist.
+- Take a macrolevel approach to building a total organizational competency picture at the leadershiplevel. This means taking a skills inventory of the leadership team, identifying the present employeecore competency, identifying competency gaps early and reducing duplication within theorganization
+- As "soft" skills like innovation andinﬂuence become critical to meet the challenges of IoT security, the chief information securityofﬁcer (CISO) organization must adapt its leadership skill set and build business acumen
+- versatility
+- IoT requires leadership to have greater knowledgeof business processes and risks.
+- Make security an opportunity for candidates outside of IT, especially if your organization has aleadership rotation or leadership development program.■Raise your organization's proﬁle internally by participating in town halls, roundtables andinternal social media to engage prospective leaders.
+
+## Source
+[[Solving the IoT Security Talent Gap_Where You Look Matters.pdf]]

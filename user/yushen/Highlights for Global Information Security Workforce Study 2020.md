@@ -1,0 +1,52 @@
+- f the 2020 (ISC)² Cybersecurity Workforce Study. O
+- survey collected data from 3,790 security professionals at all levels, drawn from small, medium and large organizations throughout North America, Europe, Latin America (LATAM) and the Asia-Pacific region (APAC). 
+-  was fielded in late April 2020 through mid-June.
+- y capture the mood and environment of the cybersecurity workforce
+-  significant impact COVID-19 has had on cybersecurity professionals
+- two very critical components of defining the industry’s skills shortage—the Cybersecurity Workforce Gap and Cybersecurity Workforce Estimate. 
+- Each metric has a critical role to play in informing best practices and policies to encouragegrowth of the workforce and define success metrics. This is the second consecutive year we have produced a Cybersecurity Workforce Estimate, and our data suggests thatthe global cybersecurity workforce needs to grow 89% to effectively defend organizations’critical asset
+- 30% of respondents reported that their organizations made the move to a remote workforce in a single day, while 47% were given several days to a week. Just 16% said that they had more than a week to make this shift
+-  22% had less than one day to ensure that remote systems were secured, while again 47% were allowed several days to a week, and only 16% had more than a week
+-  with 63% rating their immediate response, and 64% rating their overall response as Excellent or Very Good; 92% of respondents reported their organizations were at least somewhat prepared for the transition, with 53% indicating they were very well prepared.
+- their ability to function as part of effective teams is undiminished
+- t team communications have either been unaffected or have improved
+- t their organizations have not been compromised by having a remote security team.
+- Lack of leadership awareness has a real impact on teams. Morale was lowest for cybersecurity professionals who reported their leadership was not aware of remote work security implications
+- some report impacts to hours, salary, or full-time status.
+- many cybersecurity professionals still have to perform on-premises work
+- 78% of cybersecurity professionals worldwide still going into the office 
+- One key objective of the study each year is to estimate the size of the global cybersecurityworkforce. Another, just as vital, is to better understand the industry’s skills gap and uncover solutions for addressing the global talent shortage. This includes ensuring career-long professional development for those already in the field, identifying pathwaysinto the workforce for new entrants, and helping employers identify existing and future sources of fresh talent. 
+- w the Cybersecurity Workforce Gap decrease—from 4 million to 3.1 million. 
+- While the largest single population of cybersecurity professionals is in the U.S., along with the largest cybersecurity gap
+- cybersecurity gap narrowed from 4 million worldwide in 2019 to 3.1 million
+- stated demand globally down 5% from 2019
+- which is likely driven by a strong base of industry migration. It also appears that a higher share of organizations are increasing supply by investing in their current base of professionals
+- Supply is up year-over-year
+- n official cybersecurity functions as well as IT/ICT professionals who spend at least 25% of a typical work week handling responsibilities specifically related to cybersecurity. 
+- consider several critical factors, including the percentage of organizations with open positions and an estimation of anticipated staffing needs
+- The calculation of supply includes estimates for new entrants to the workforce (from academic and non-academic backgrounds) as well as estimates of professionals currently in other fields who are pivoting to cybersecurity specialties. We’ve adopted this dynamic, holistic measurement approach
+- expected demand as well as estimated personnel counts.
+- ² used a combination of three methods to estimate the size of the current cybersecurity workforce
+- Our estimate uses U.S. staffing ratios conservatively to extrapolate cybersecurity workforce populations outside of the U.S.
+- It’s no surprise that the industry that employs the most cybersecurity professionals in2020 is the IT services industry
+- with bachelors and master’s degrees being the norm. Most of these degreeswere in the STEM fields of Computer and Information Sciences and Engineering
+- s. Most participants (72%)are male, and the largest age cohort is Millennials
+- 79% of cybersecurity professionals hold at least a bachelor’s degree—with a little more than one-third holding a master’s, doctoral or post-doctoral degree
+- the field get their degrees in computer and information sciences (49%), others sought degrees that are not IT-focused, such as engineering (20%) and business (10%). Not to beoverlooked is that 8% of cybersecurity professionals report holding only a high school diploma
+- recruitment of staff from other departments (utilized by 28% of organizations) and other companies in thesame industry (27%) or from a different industry entirely (20%). Vendors in the security or hardware industries (25%) and career changers (23%) make the list as well
+- e both long-tenured and highly experienced
+-  For the top three team roles by percentage within organizational cybersecurity teams—security operations, security administration and risk management
+- Job satisfaction among cybersecurity practitioners is extraordinarily high
+- Cybersecurity professionals make about U.S. $83,000 per year, o
+-  More than 70% of U.S. cybersecurity professionals say they are required to have some kind of certification, and the figure is even higher—78%—worldwide. Another reason to pay or subsidize employees’ certification expenses might simply be for a workplace to be competitive in attracting and retaining a limited number of skilled applicants
+- , with 50% reporting that certification courses, along with exam fees (51%), are paid for completely by their employers
+- cloud security as the skill they most need to develop in the next two years,
+- Other top skills that professionals have on their two-year horizon include risk assessment, analysis and management (28%); security analysis (28%); and governance, risk management and compliance (26%). 
+-  the highest percentage of women cybersecurity professionals participating in our study is in Latin America, with 40%, while in North America the figure is just 21%, and results in Europe and Asia-Pacific fall between these respective ranges, at 23% and 30%.
+- the best way to increase women’s representation in the field was to encourage women to pursue STEM degrees in college
+- , including promoting more women to leadership roles (45%, compared to 34% of men) and eliminating the pay and promotion gap (42%, compared to 35% of men). 
+- from career-changers to liberal arts graduates to ex-military personnel; the broader your net, the more potential candidates you can identify
+- . Contributing fully or partially toward the cost of certification isa sure-fire way to keep staff satisfied and attract new and ambitious talent. 
+
+## Source
+[[Global Information Security Workforce Study 2020.pdf]]

@@ -1,0 +1,24 @@
+### obsidian config file ###
+## for windows
+.obsidian\workspace
+.obsidian\workspace
+.obsidian\graph.json
+.obsidian\plugins\obsidian-pandoc\data.json
+.obsidian\
+.obsidian\plugins\obsidian-git\data.json
+./.obsidian/plugins/obsidian-git/data.json
+
+# for linux/mac
+#./.obsidian/*
+#./.obsidian/*.*
+
+.obsidian/workspace
+.obsidian/graph.json
+.obsidian/plugins/obsidian-pandoc/data.json
+.obsidian/
+.obsidian\plugins\obsidian-git
+.obsidian/plugins/obsidian-git/data.json
+.\.obsidian\plugins\obsidian-git\data.json
+
+.DS_Store
+~*
